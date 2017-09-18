@@ -1,2 +1,3 @@
 # jubilant-carnival
 Newbie
+Moderate
